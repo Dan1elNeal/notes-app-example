@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "config": "1.29.4",
+    "express": "4.16.2",
+    "hbs": "4.0.1",
+    "morgan": "1.9.0"
+  }
+}
